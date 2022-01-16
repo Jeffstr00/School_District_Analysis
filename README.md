@@ -8,6 +8,8 @@ However, it later became apparent that some of the data used in the analysis see
 
 ## Results
 
+![District Summary New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_211.png)
+![District Summary Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_212.png)
 * How is the district summary affected?
 * 461
 

@@ -43,9 +43,13 @@ While Thomas High School's reading scores weren't as relatively impressive as th
 ![School Spending New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_251.png)
 ![School Spending Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_252.png)
 
+With a $638 per student budget, Thomas High School's changes would only be reflected in the $630-644 bracket.  However, the changes were so slight that they cannot even be noticed to the second decimal place.  However, by looking at raw numbers, it can be seen that performance slightly drops across the board for schools in this range.
+
 * ### Scores by School Size
 ![School Size New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_261.png)
 ![School Size Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_261.png)
+
+With 1,635 students, Thomas High School's numbers being changed would only impact medium-sized schools with 1000-2000 students.  While the changes aren't even noticeable in the displayed charts, numbers did slightly change.  With the scores removed, math passing percentage fell from 93.60 to 93.58 and reading went from 96.79 to 96.73, with a corresponding dip in overall passing percentage of 90.62 down to 90.56.
 
 * ### Scores by School Type
 ![School Type New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_271.png)

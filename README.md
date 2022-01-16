@@ -15,7 +15,10 @@ However, it later became apparent that some of the data used in the analysis see
 ![District Summary Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_212.png)
 The overall effect on the district summary was miniscule.  That makes sense, as only 461 datapoints were removed from a population of almost 40,000, so even extreme cheating would struggle to really move the needle much versus the other 99% of unchanged data.  In fact, unformatted data had to be shown in order to notice a difference (otherwise, results were the same to second decimal point).  However, slight decreases in both math and reading scores could be observed when you look close enough, which does make sense if the removed scores were unnaturally high due to fraud.
 
-* How is the school summary affected?
+* ### School Summary
+* ![School Summary New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_221.png)
+* ![School Summary Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_222.png)
+For school summary, data only changed for Thomas High School students, so obviously other schools weren't affected.  
 
 * How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schools?
 

@@ -10,7 +10,7 @@ However, it later became apparent that some of the data used in the analysis see
 
 ## Results
 
-* ### District summary
+* ### District Summary
 ![District Summary New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_211.png)
 ![District Summary Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_212.png)
 The overall effect on the district summary was miniscule.  That makes sense, as only 461 datapoints were removed from a population of almost 40,000, so even extreme cheating would struggle to really move the needle much versus the other 99% of unchanged data.  In fact, unformatted data had to be shown in order to notice a difference (otherwise, results were the same to second decimal point).  However, slight decreases in both math and reading scores could be observed when you look close enough, which does make sense if the removed scores were unnaturally high due to fraud.
@@ -20,7 +20,9 @@ The overall effect on the district summary was miniscule.  That makes sense, as 
 ![School Summary Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_222.png)
 For school summary, data only changed for Thomas High School students, so obviously other schools weren't affected.  However, Thomas High School predictably had their numbers suffer once the fraudulent data was removed (though not by tremendous amounts).  Math passing percentage fell from 93.27 to 93.19 and reading went from 97.31 to 97.02, for an overall drop of 90.95 to 90.63.
 
-* How does replacing the ninth grader's math and reading scores affect Thomas High School's performance relative to the other schools?
+* ### Performance vs. Other Schools
+![School Performance New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_231.png)
+![School Performance Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_232.png)
 
 * How does replacing the ninth-grade scores affect the following: math and reading scores by grade.
 

@@ -55,7 +55,7 @@ With 1,635 students, Thomas High School's numbers being changed would only impac
 ![School Type New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_271.png)
 ![School Type Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_271.png)
 
-With Thomas High School being a charter school, only their numbers would change following the removal of the possibly fraudulent 9th grade schools from the school.  Once again, the changes are not even ablel to be noticed in the displayed tables, but they are present.  Math passing percentage went from 93.621 to 93.610, reading dipped from 96.586 to 96.550, and overall passing percentage ultimately went from 90.432 to 90.393.  However, none of these minute changes even come close to closing the massive perfomrance gap between charter and district schools.
+With Thomas High School being a charter school, only their numbers would change following the removal of the possibly fraudulent 9th grade schools from the school.  Once again, the changes are not even able to be noticed in the displayed tables, but they are present.  Math passing percentage went from 93.621 to 93.610, reading dipped from 96.586 to 96.550, and overall passing percentage ultimately went from 90.432 to 90.393.  However, none of these minute changes even come close to closing the massive performance gap between charter and district schools.
 
 ## Summary Summarize
 

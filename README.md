@@ -23,12 +23,13 @@ For school summary, data only changed for Thomas High School students, so obviou
 * ### Performance vs. Other Schools
 ![School Performance New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_231.png)
 ![School Performance Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_232.png)
+While Thomas High School's numbers took a hit after their fraudulent scores were removed, it didn't result in a huge difference when compared to other schools.  In fact, they are the #2 school either with or without the changes.  However, they definitely lost some position in the race.  While their original 90.95 passing percent was a relatively safe 0.35 points ahead of Griffin and only 0.38 away from the overall lead, their #2 spot after the change isn't as secure.  With the updated data, they are now 0.7 points away from first place, and are only 0.03 points away from falling into third.
 
-* How does replacing the ninth-grade scores affect the following: math and reading scores by grade.
+* ### Scores by Grade
 
-* ^^ scores by school spending
+* ### Scores by School Spending
 
-* ^^ scores by school size
+* ### Scores by School Size
 
 * ^^ scores by school type
 

@@ -28,16 +28,22 @@ While Thomas High School's numbers took a hit after their fraudulent scores were
 * ### Scores by Grade
 ![Grade Scores Math New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_241math.png)
 ![Grade Scores Math Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_242math.png)
-blah1
+Since the only data that changed was from 9th grade students at Thomas High School, grades 10-12 were not affected.  However, 9th grade saw its second highest math scoring school removed, relatively improving the performances of the other schools as a result.
 
 ![Grade Scores Reading Now](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_241reading.png)
 ![Grade Scores Reading Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_242reading.png)
-blah2
+While Thomas High School's reading scores weren't as relatively impressive as their math scores, they still scored in the upper third of 9th grade schools.  As a result, again, removing their scores from the data would make the other schools look better in comparison.
 
 * ### Scores by School Spending
+![School Spending New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_251.png)
+![School Spending Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_252.png)
 
 * ### Scores by School Size
+![School Size New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_261.png)
+![School Size Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_261.png)
 
-* ### scores by school type
+* ### Scores by School Type
+![School Type New](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_271.png)
+![School Type Old](https://github.com/Jeffstr00/School_District_Analysis/blob/main/Resources/schools_271.png)
 
 ## Summary Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
